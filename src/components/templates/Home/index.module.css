@@ -1,0 +1,18 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  min-height: 100vh;
+  background-color: lightgrey;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+.emptyPosts {
+  background-color: rgb(249, 185, 185);
+  border-radius: 10px;
+  text-align: center;
+  font-size: 2rem;
+  padding: 10px;
+  font-style: italic;
+  font-family: fantasy;
+}
